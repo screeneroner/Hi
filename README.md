@@ -6,9 +6,13 @@ A tiny always-on-demand text box for sending selected text (or anything you type
 
 To implement the "send text -> get answer" workflow without switching apps, the script provides a tiny text box that you can toggle on and off with a hotkey. 
 
-Initialy it was created to work with **LM Studio** and **Ollama**, but now it also supports **Claude via `claude` CLI**.
+Initialy it was created to work with **LM Studio** and **Ollama**, but now it also supports **Claude CLI**.
+
+![Screenshot 1](screenshots/README01.png)
 
 Another reason - allow applying different predefined prompts by simple menu selection from your collection.
+
+![Screenshot 1](screenshots/README02.png)
 
 ## Install / Run
 
